@@ -22,6 +22,7 @@ end
 
 gem 'jquery-rails'
 gem 'rspec-rails'
+# make a change and push it up
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
